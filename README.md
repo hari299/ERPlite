@@ -26,4 +26,6 @@ Priscilla Pollock <ppollock@computemps.net>  :: Cilla has supported and customiz
 
 Pankaj Sharma <spankaj@pisoftek.com>  :: Pankaj has supported and customized ERPlite for 15 years for several customers in Thailand, Australia, India, China, Costa Rica and the United States.
 
+David Martin <dmartin@martininc.com>  :: David has supported and customized  ERPlite for  customers in Florida for several years.
+
 Until end Feb 2021, email support@erplite.com with any questions, requests, or suggestions. 
