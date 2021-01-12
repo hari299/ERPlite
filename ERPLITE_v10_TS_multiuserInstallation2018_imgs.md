@@ -97,7 +97,7 @@ they can have their ERPlite frontend open directly.**
 
 ## Creating a Local User on Windows 2003 server
 
-![](media\image2.png)
+![](media/image2.png)
 
 1.  From the Windows **Start** menu select **Administrative Tools \|
     Computer Management**. If this menu item does not exist, you are
@@ -154,13 +154,13 @@ they can have their ERPlite frontend open directly.**
 The Remote Desktop Connection is usually located in Start \> Programs
 \>Accessories one of its subfolders.
 
-![](media\image3.png)
+![](media/image3.png)
 
 Enter the IP address of Windows Server 2003
 
-![](media\image4.png)
+![](media/image4.png)
 
-![](media\image5.png)
+![](media/image5.png)
 
 Open ERPlite by clicking on the Desktop Icon .
 
@@ -176,7 +176,7 @@ Each user has "Full Control" permissions for this folder.
 After clicking OK on the configuration screens ( if not already
 clicked), the normal ERPlite Switchboard appears.....
 
-![](media\image6.png)
+![](media/image6.png)
 
 ERPlite will look and operate the same as if it was installed on your
 local PC, but in fact it is running on the server. This means that very
