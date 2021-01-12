@@ -39,7 +39,7 @@ includes Access (note this can be done later, when needed).
 
 ERPlite Client will open to the following page.....
 
-![](media\image1.png)
+![](media/image1.png)
 
 **3.0 DO NOT** (at this time)
 
