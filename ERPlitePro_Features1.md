@@ -6,7 +6,7 @@ Advanced manufacturing inventory management features for an affordable
 cost, including self implementaton in days without the need for IT
 skills.
 
-download ERPlite Pr
+ 
 
 ![](media/image1.png)
 
@@ -18,7 +18,7 @@ download ERPlite Pr
 
 -   Quickbooks integration
 
-> ![](media\image2.png){width="6.5in" height="4.815972222222222in"}
+> ![](media/image2.png)
 
 -   Multi-user in Windows PCs or in the Cloud
 
@@ -30,21 +30,11 @@ download ERPlite Pr
 
 -   Shipping Automation
 
-> ![](media\image3.png){width="6.5in" height="0.7118055555555556in"}
+> ![](media/image3.png) 
 
 -   Open Source..... so, you can customize
 
--   
 
--   
-
--   
-
--   
-
--   
-
--   
 
 -   Manufacturing Requirements Planning
 
