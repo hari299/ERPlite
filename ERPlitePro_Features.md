@@ -28,17 +28,6 @@ ERP**LITE** P**RO** FEATURES
 
 -   Open Source..... so, you can customize
 
--   
-
--   
-
--   
-
--   
-
--   
-
--   
 
 -   Manufacturing Requirements Planning
 
@@ -72,43 +61,8 @@ ERP**LITE** P**RO** FEATURES
 
 > ![](media/image5.png)
 
--   
 
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
-
--   
+  
 
 -   Parts&Vendors Integration
 
