@@ -2,7 +2,7 @@ ERP**LITE** P**RO** FEATURES
 
 download ERPlite Pr
 
-![](media\image1.png){width="6.5in" height="5.003472222222222in"}o free
+![](media/image1.png){width="6.5in" height="5.003472222222222in"}o free
 trial.
 
 -   Track inventory in multiple locations and bins
@@ -13,7 +13,7 @@ trial.
 
 -   Quickbooks integration
 
-> ![](media\image2.png){width="6.5in" height="4.815972222222222in"}
+> ![](media/image2.png){width="6.5in" height="4.815972222222222in"}
 
 -   Multi-user in Windows PCs or in the Cloud
 
