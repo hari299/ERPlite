@@ -8,8 +8,7 @@ skills.
 
 download ERPlite Pr
 
-![](media\image1.png){width="6.5in" height="5.003472222222222in"}o free
-trial.
+![](media/image1.png)
 
 -   Track inventory in multiple locations and bins
 
