@@ -1,7 +1,9 @@
 ERP**LITE** P**RO** FEATURES
 
-download ERPlite Pr
+Overview
 
+Advanced manufacturing inventory management features for an affordable cost, including self implementaton in days without the need for IT skills. 
+ 
 ![](media\image1.png){width="6.5in" height="5.003472222222222in"}o free
 trial.
 
