@@ -1,6 +1,6 @@
 ERP**LITE** P**RO** FEATURES
 
-download ERPlite Pr
+ 
 
 ![](media/image1.png)
 
@@ -12,7 +12,7 @@ download ERPlite Pr
 
 -   Quickbooks integration
 
-> ![](media/image2.png){width="6.5in" height="4.815972222222222in"}
+> ![](media/image2.png)
 
 -   Multi-user in Windows PCs or in the Cloud
 
@@ -24,7 +24,7 @@ download ERPlite Pr
 
 -   Shipping Automation
 
-> ![](media\image3.png){width="6.5in" height="0.7118055555555556in"}
+> ![](media/image3.png) 
 
 -   Open Source..... so, you can customize
 
@@ -42,8 +42,7 @@ download ERPlite Pr
 
 -   Manufacturing Requirements Planning
 
-> ![](media\image4.png){width="6.030496500437446in"
-> height="4.31196084864392in"}
+> ![](media/image4.png)
 
 -   routing lists
 
@@ -71,8 +70,7 @@ download ERPlite Pr
 
 -   QuoteWerks Integration
 
-> ![](media\image5.png){width="5.8846806649168855in"
-> height="5.1764359142607175in"}
+> ![](media/image5.png)
 
 -   
 
@@ -114,9 +112,8 @@ download ERPlite Pr
 
 -   Parts&Vendors Integration
 
-![](media\image6.png){width="6.051326552930884in"
-height="5.947173009623797in"}
+![](media/image6.png)
 
 -   Import Multiple Bills of Material
 
-![](media\image7.png){width="6.5in" height="5.004861111111111in"}
+![](media/image7.png)
