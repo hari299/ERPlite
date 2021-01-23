@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-
+<a href="ERPlitePro10299.exe" download>
+  <img src="ERPlitePro10299.exe" alt="ERPliteProDownload">
+</a>
 
 <h2>ERPLITE PRO FEATURES</h2>
 
