@@ -92,4 +92,4 @@ Try out ERPlite.....download the installer from the link below....and follow the
 </a></p>
 Do the Getting Started Tutorial to learn how to use ERPlite.
 
-Note....for additional downloads (tutorials, installation in Win Server etc)...click the button below the EPRlite title above.
+Note....for additional downloads (tutorials, installation in Win Server etc)...click the "View on Github" button at the top of this page.
