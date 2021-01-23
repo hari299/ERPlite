@@ -90,3 +90,4 @@ Try out ERPlite.....download the installer from the link below....and follow the
 <a href="ERPlitePro10299.exe" download>
   <img src="ERPlitePro10299.exe" alt="ERPliteProDownload">
 </a>
+Do the Getting Started Tutorial to learn how to use ERPlite.
