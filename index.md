@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-ERPLITE PRO FEATURES
+<h2>ERPLITE PRO FEATURES</h2>
 
 Overview
 
