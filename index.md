@@ -1,9 +1,7 @@
 ---
 layout: default
 ---
-<a href="ERPlitePro10299.exe" download>
-  <img src="ERPlitePro10299.exe" alt="ERPliteProDownload">
-</a>
+
 
 <h2>ERPLITE PRO FEATURES</h2>
 
@@ -84,3 +82,11 @@ skills.
 -   Import Multiple Bills of Material
 
 ![](media/image7.png) 
+
+<h2>Downloads</h2>
+
+Try out ERPlite.....download the installer from the link below....and follow the on screen instructions....
+
+<a href="ERPlitePro10299.exe" download>
+  <img src="ERPlitePro10299.exe" alt="ERPliteProDownload">
+</a>
