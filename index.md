@@ -87,7 +87,7 @@ skills.
 
 Try out ERPlite.....download the installer from the link below....and follow the on screen instructions....
 
-<a href="ERPlitePro10299.exe" download>
+<p><a href="ERPlitePro10299.exe" download>
   <img src="ERPlitePro10299.exe" alt="ERPliteProDownload">
-</a>
+</a></p>
 Do the Getting Started Tutorial to learn how to use ERPlite.
