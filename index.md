@@ -2,7 +2,9 @@
 layout: default
 ---
 
-
+<head>
+ <meta name="google-site-verification" content="8-tfH5nNwRVnFFW_lLtkn9qd2wYSQnLvp_a3audYCJ0" />
+</head>
 <h2>ERPLITE PRO FEATURES</h2>
 
 Overview
