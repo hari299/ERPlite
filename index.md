@@ -27,6 +27,10 @@ skills.
 
 > ![](media/image2.png)
 
+<a href="https://desktop.apps.com/apps/135451/erplite-pro-10#!overview" target="_blank">Visit Intuit QuickBooks Integration</a>
+
+
+
 -   Multi-user in Windows PCs or in the Cloud
 
 -   unlimited Bill of Materials levels
@@ -84,6 +88,8 @@ skills.
 -   Import Multiple Bills of Material
 
 ![](media/image7.png) 
+
+
 
 <h2>Downloads</h2>
 
